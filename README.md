@@ -11,4 +11,4 @@ This repository containts 5 folders, consisting of 4 problem sets (PS1 - PS4), a
 
 4. PS4: Communication network, joint congestion control for utility maximization, rate allocation for optimal routing problem under the power constrained network setting, function and develop the gradient-based algorithm for the problem designed, develop the associated gradient method by associaing Lagrangian multiplier, Markov chain, Foster-Lyapunov criterion, global balance equations, Dual Algorithm, Primal-Dual Algorithm, and Heavy-Ball Method (MATLAB)
 
-
+5. Project: Research done on Augmented Lagrangian Methods - Motivation, equality and inequality constrained problems, algorithm for ALM, advantages & disadvantages, and python implementation of the algorithm
